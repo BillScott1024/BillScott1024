@@ -1,7 +1,7 @@
-### Hi there 👋
-
+## 欢迎访问我的博客
+[忆星辰|博客](https://extingstudio.com)
 <!--
-**BillScott1024/BillScott1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wr20060926/wr20060926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 简介
+🎈昵称：Akimoto
+
+😉性别：♂
+
+💡博客：[忆星辰|博客](https://extingstudio.com)
+## 概述
+[![Akimoto's github stats](https://github-readme-stats.vercel.app/api?username=BillScott1024)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillScott1024)](https://github.com/anuraghazra/github-readme-stats)
+
