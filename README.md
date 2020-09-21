@@ -4,7 +4,8 @@
 </div>
 
 <p align="center"> 
-  当前访问 / Visitor count
+  <br>
+  当前访问 / Visitor count<br>
   <img src="https://profile-counter.glitch.me/BillScott1024/count.svg" /><label align="center"> <u> times </u></label>
 </p>
 
