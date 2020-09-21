@@ -52,4 +52,5 @@ Here are some ideas to get you started:
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=BillScott1024&theme=vue-dark" />
 </a>
 
+<img src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/din0.gif" alt="press space to run!">
 
