@@ -1,3 +1,12 @@
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/BillScott1024/count.svg" />
+</p>
+
 ## 欢迎访问我的主页
 
 
@@ -32,7 +41,8 @@ Here are some ideas to get you started:
 ## ToDo
 - [ ] 成为一名优秀的游戏开发者
 - [ ] 成为一名热爱生活的人
-<br>
+
+
 ## 概述
 
 <a href="https://github.com/BillScott1024">
