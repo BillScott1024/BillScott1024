@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 💡博客：[忆星辰 | 博客](https://extingstudio.com)
 ## 概述
-[![Akimoto's github stats](https://github-readme-stats.extingstudio.vercel.app/api?username=BillScott1024)](https://github.com/BillScott1024)
+[![Akimoto's github stats](https://github-readme-stats.extingstudio.vercel.app/api?username=BillScott1024&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/BillScott1024)
 [![Top Langs](https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=BillScott1024)](https://github.com/BillScott1024)
