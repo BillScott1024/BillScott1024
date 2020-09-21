@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 😉性别：♂
 
-{% radio green checked,  游戏开发者 👨‍💻 %}
-{% radio yellow checked, 业余摄影师 📸 %}
-{% radio cyan checked, 喜欢旅行 🛩 %}
-{% radio blue checked, 会弹吉他 🎶 %}
-{% radio checked, 沉迷代码 👨‍💻 %}
+- [x] 游戏开发者 👨‍💻 
+- [x] 业余摄影师 📸 
+- [x] 喜欢旅行 🛩 
+- [x] 会弹吉他 🎶 
+- [x] 沉迷代码 👨‍💻 
 
 💡博客：[忆星辰|博客](https://extingstudio.com)
 ## 概述
