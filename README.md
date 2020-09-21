@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/cover-05.webp" alt="Hello world">
+<img style="border-radius: 25px" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/cover-05.webp" alt="Hello world">
 
 <p align="center"> 
   当前访问 / Visitor count<br>
