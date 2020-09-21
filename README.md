@@ -3,7 +3,7 @@
 <img src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/cover-05.webp" alt="Hello world">
 
 <p align="center"> 
-  Visitor count<br>
+  当前访问/Visitor count<br>
   <img src="https://profile-counter.glitch.me/BillScott1024/count.svg" />
 </p>
 
