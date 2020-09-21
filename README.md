@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=BillScott1024)](https://github.com/BillScott1024)
 
 <a href="https://github.com/BillScott1024">
-  <img align="center" src="https://github-readme-stats.extingstudio.vercel.app/api/pin/?username=BillScott1024&count_private=true&show_icons=true" />
+  <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/?username=BillScott1024&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/BillScott1024">
-  <img align="center" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=BillScott1024" />
+  <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=BillScott1024" />
 </a>
 
 
