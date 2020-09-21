@@ -1,5 +1,5 @@
 ## 欢迎访问我的主页
-[忆星辰|博客](https://extingstudio.com)
+[忆星辰](https://extingstudio.com)
 <!--
 **wr20060926/wr20060926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - [ ] 成为一名热爱生活的人
 
 
-💡博客：[忆星辰|博客](https://extingstudio.com)
+💡博客：[忆星辰 | 博客](https://extingstudio.com)
 ## 概述
 [![Akimoto's github stats](https://github-readme-stats.extingstudio.vercel.app/api?username=BillScott1024)](https://github.com/BillScott1024)
 [![Top Langs](https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=BillScott1024)](https://github.com/BillScott1024)
