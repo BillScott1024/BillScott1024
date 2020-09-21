@@ -1,5 +1,10 @@
 ## 欢迎访问我的主页
-[忆星辰](https://extingstudio.com)
+
+<br>
+<br>
+[💡忆星辰](https://extingstudio.com)
+
+<br>
 <!--
 **wr20060926/wr20060926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,9 +33,7 @@ Here are some ideas to get you started:
 ## ToDo
 - [ ] 成为一名优秀的游戏开发者
 - [ ] 成为一名热爱生活的人
-
-
-💡博客：[忆星辰 | 博客](https://extingstudio.com)
+<br>
 ## 概述
 
 <a href="https://github.com/BillScott1024">
