@@ -1,6 +1,7 @@
 # Hey there :wave:
 <div>
-  <img align="center" style="border-radius: 25px; box-shadow: 10px 10px 5px #888888;" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/cover-05.webp" alt="Hello world">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/dino.gif" alt="press space to run!">
+<!--   <img align="center" style="border-radius: 25px; box-shadow: 10px 10px 5px #888888;" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/cover-05.webp" alt="Hello world"> -->
 </div>
 
 <p align="center"> 
@@ -53,6 +54,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/BillScott1024">
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=BillScott1024&theme=vue-dark" />
 </a>
-
-<img src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/dino.gif" alt="press space to run!">
 
