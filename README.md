@@ -10,6 +10,16 @@
   <img src="https://profile-counter.glitch.me/BillScott1024/count.svg" /><label align="center"> <u> times </u></label>
 </p>
 
+
+## 概述
+
+<a href="https://github.com/BillScott1024">
+  <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/?username=BillScott1024&count_private=true&show_icons=true&theme=vue-dark" />
+</a>
+<a href="https://github.com/BillScott1024">
+  <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=BillScott1024&theme=vue-dark" />
+</a>
+
 ## 欢迎访问我的主页
 
 
@@ -46,12 +56,4 @@ Here are some ideas to get you started:
 - [ ] 成为一名热爱生活的人
 
 
-## 概述
-
-<a href="https://github.com/BillScott1024">
-  <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/?username=BillScott1024&count_private=true&show_icons=true&theme=vue-dark" />
-</a>
-<a href="https://github.com/BillScott1024">
-  <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=BillScott1024&theme=vue-dark" />
-</a>
 
