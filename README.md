@@ -23,7 +23,7 @@
 ## 欢迎访问我的主页
 
 
-[💡忆星辰](https://home.extingstudio.com)
+[💡 主页 | 忆星辰 🔗](https://home.extingstudio.com)
 
 
 <!--
