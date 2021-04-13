@@ -20,6 +20,11 @@
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=BillScott1024&theme=vue-dark" />
 </a>
 
+<a href="https://skyline.github.com/billscott1024/2020">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/skyline.gif" />
+</a>
+
+
 ## 欢迎访问我的主页
 
 
