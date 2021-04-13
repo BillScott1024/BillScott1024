@@ -1,9 +1,5 @@
 # Hey there :wave:
 
-
-<div>
-  <img align="center" src="https://cdn.shopify.com/s/files/1/0392/7890/3427/files/1f7c5509-2651-4b7f-ab67-f7ec0e8274cd.__CR0_0_1500_1500_PT0_SX300_V1.jpg?v=1613224059" alt="press space to run!">
-</div>
 <div>
   <img align="center" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/dino.gif" alt="press space to run!">
 <!--   <img align="center" style="border-radius: 25px; box-shadow: 10px 10px 5px #888888;" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/cover-05.webp" alt="Hello world"> -->
