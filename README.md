@@ -25,10 +25,6 @@
   <img align="top" src="https://github-readme-stats.extingstudio.vercel.app/api/top-langs/?username=BillScott1024&theme=vue-dark" />
 </a>
 
-<a href="https://skyline.github.com/billscott1024/2020">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/skyline.gif" />
-</a>
-
 
 ## 欢迎访问我的主页
 
@@ -65,5 +61,21 @@ Here are some ideas to get you started:
 - [ ] 成为一名优秀的游戏开发者
 - [ ] 成为一名热爱生活的人
 
+## ⚡ Technologies
+![Unity 3D](https://img.shields.io/badge/-Unity3D-gray?style=flat-square&logo=unity&logoColor=007396)
+![Cocos 2D](https://img.shields.io/badge/-CocosCreator2D-gray?style=flat-square&logo=cocos&logoColor=blue)
+![C#](https://img.shields.io/badge/-CSharp-gray?style=flat-square&logo=csharp)
+![Lua](https://img.shields.io/badge/-Lua-gray?style=flat-square&logo=lua&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=typescript&logoColor=007396)
+![Vue.js](https://img.shields.io/badge/-Vue.js-gray?style=flat-square&logo=vue.js)
+
+
+![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git)
+
+
+<a href="https://skyline.github.com/billscott1024/2020">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/BillScott1024/BillScott1024/assets/skyline.gif" />
+</a>
 
 
