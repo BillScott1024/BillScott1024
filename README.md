@@ -53,9 +53,7 @@ Here are some ideas to get you started:
 
 - [x] 👨‍💻 游戏开发者
 - [x] 👨‍💻 沉迷代码
-- [x] 📸 业余摄影师
-- [x] 🛩 喜欢旅行
-- [x] 🎶 会弹吉他
+- [x] 📸 摄影师
 
 ## ToDo
 - [ ] 成为一名优秀的游戏开发者
@@ -66,7 +64,6 @@ Here are some ideas to get you started:
 ![Cocos 2D](https://img.shields.io/badge/-CocosCreator2D-gray?style=flat-square&logo=cocos&logoColor=blue)
 ![C#](https://img.shields.io/badge/-CSharp-gray?style=flat-square&logo=csharp)
 ![Lua](https://img.shields.io/badge/-Lua-gray?style=flat-square&logo=lua&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=typescript&logoColor=007396)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-gray?style=flat-square&logo=vue.js)
 
